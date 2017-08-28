@@ -1,0 +1,53 @@
+State	Towers	Rooftops	Other	
+Alabama	"3,165"	552	"3,855"	
+Alaska	127	86	13	
+Arizona	"1,762"	"1,275"	753	
+Arkansas	"1,684"	252	224	
+California	"8,271"	"8,506"	"5,058"	
+Colorado	"1,498"	"1,039"	815	
+Connecticut	710	"1,039"	889	
+Delaware	243	219	46	
+District of Columbia	18	239	36	
+Florida	"4,873"	"3,521"	"5,491"	
+Georgia	"4,584"	"2,418"	"3,130"	
+Hawaii	220	140	75	
+Idaho	714	139	804	
+Illinois	"4,705"	"3,131"	"2,734"	
+Indiana	"3,050"	"1,347"	"3,006"	
+Iowa	"1,288"	501	"1,446"	
+Kansas	"1,515"	363	"1,270"	
+Kentucky	"1,817"	645	"1,126"	
+Louisiana	"2,363"	"1,035"	"2,464"	
+Maine	483	217	136	
+Maryland	"1,225"	"2,061"	581	
+Massachusetts	"1,215"	"1,779"	655	
+Michigan	"3,422"	"1,770"	"2,965"	
+Minnesota	"1,836"	739	"1,206"	
+Mississippi	"1,877"	260	"2,216"	
+Missouri	"2,853"	"1,009"	"3,886"	
+Montana	575	136	833	
+Nebraska	904	190	910	
+Nevada	"1,164"	590	744	
+New Hampshire	"1,232"	308	413	
+New Jersey	"1,331"	"2,693"	571	
+New Mexico	"1,153"	270	205	
+New York	"2,663"	"4,892"	"2,769"	
+North Carolina	"3,850"	"1,729"	"2,753"	
+North Dakota	340	85	52	
+Ohio	"5,581"	"2,094"	"3,072"	
+Oklahoma	"2,553"	438	700	
+Oregon	"1,441"	729	387	
+Pennsylvania	"3,979"	"2,426"	"7,206"	
+Rhode Island	250	343	417	
+South Carolina	"2,560"	650	"1,687"	
+South Dakota	307	90	206	
+Tennessee	"3,271"	960	"4,281"	
+Texas	"12,070"	"6,050"	"7,849"	
+Utah	"1,019"	377	307	
+Vermont	123	83	36	
+Virginia	"2,815"	"1,810"	"3,168"	
+Washington	"2,072"	"1,619"	"1,070"	
+West Virginia	"1,278"	270	"1,253"	
+Wisconsin	"1,862"	868	"2,294"	
+Wyoming	317	107	96	
+TOTAL	"110,228"	"64,089"	"88,159"	
